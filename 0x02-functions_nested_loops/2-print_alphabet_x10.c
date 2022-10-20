@@ -10,7 +10,7 @@ char alphabet = 'a';
 while (times < 10)
 {
 alphabet = 'a';
-while (alphabet <= z)
+while (alphabet <= 'z')
 {
 _putchar (alphabet);
 alphabet++;
