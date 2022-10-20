@@ -10,5 +10,5 @@ last_digit = n % 10;
 if (n < 0)
 last_digit = last_digit * -1;
 _putchar (last_digit + '0');
-return (last);
+return (last_digit);
 }
